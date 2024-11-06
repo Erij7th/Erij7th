@@ -1,0 +1,10 @@
+class Foo:
+    """
+      >>> foo = Foo(42, 'eggs')
+      >>> foo.num
+      42
+      >>> foo.food
+      'eggs'
+      >>> foo.message()
+      'I love eggs!'
+    """
