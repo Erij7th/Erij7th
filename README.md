@@ -1,7 +1,6 @@
 ## Hi there 👋
-I'm currently working on a robocode
-Fun Fact: coding has over 100 languages
-Ask me about java	
+The following link will take you on a robot game I created. 
+https://github.com/Erij7th/csc221/blob/main/robot.py
 
 <!--
 **Erij7th/Erij7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
